@@ -6,11 +6,17 @@ This project provides an easy-to-use interface for generating, printing, and man
 # Features
 
 ✅ User-Friendly Interface – Built with Streamlit for a clean and responsive design.
+
 ✅ Customer Details Input – Collects customer Name, Mobile Number, and Address.
+
 ✅ Product Dropdown List – Select products from a pre-defined database.
+
 ✅ Database Integration – Stores product details securely.
+
 ✅ Auto Calculation – Automatically calculates Tax and Discount (in %).
+
 ✅ Customer Search – Quickly search for existing customers.
+
 ✅ Billing Options:
 
 Generate Bill
@@ -20,6 +26,7 @@ Print Bill
 Download Bill as PDF
 
 Send Bill via WhatsApp
+
 ✅ Cloud Deployment – Hosted on Streamlit Cloud for easy access anywhere.
 
 # Tech Stack
