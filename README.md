@@ -41,8 +41,9 @@ PDF Generation: FPDF / ReportLab
 
 WhatsApp Integration: pywhatkit / Twilio API
 
-# Link to Open 
-https://india-mart-billing-app.streamlit.app/
+# Deployment
+This project is deployed on Streamlit Cloud.
+You can access it directly here: https://india-mart-billing-app.streamlit.app/
 
 # Author
 Ayush Rathore 
